@@ -1,0 +1,4 @@
+{"datetime": "2024-03-07T18:21:41.646313Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-03-07T18:21:41.665243Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "The Yellows", "team_name_blue": "The Blues", "match_id": "1", "halftime": 1}}
+{"datetime": "2024-03-07T18:21:55.190286Z", "matchtime": 13.344000000016308, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2024-03-07T18:21:58.242015Z", "matchtime": 16.352000000019984, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
